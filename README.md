@@ -3,7 +3,7 @@
 Welcome to the Bank of Flatiron, where you can trust us with all your financials
 
   To view the project on th browser visit: 
-  https://transcendent-cannoli-668cf0.netlify.app/
+  https://bankofflatirons.netlify.app/
   
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
